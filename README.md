@@ -12,10 +12,11 @@ CHILI Lab provided us with a useful Graphical Interface to be used while testing
 * ROS -> Noetic
 
 ## Project Structure
-* `data folder`  : Contains the training and test data. 
+* `data folder`  : Contains the training data, the test data, and the categories' .txt file (we put a placeholder to create the folder on git, this is to be replaced by the actual data folders). 
 * `util folder` : Contains some modules that we used to format the data to our expected wants
-* `HanoiTower.ipynb` : Contains our CNN implementation as well as the ResNet transfer learning implementation
-* `TransferLearning.ipynb` : Contains the VGG16 implementation
+* `HanoiTower.ipynb` : Contains our CNN implementation 
+* `HanoiTower_ResNet_50.ipynb` : Contains the ResNet transfer learning implementation
+* `TransferLearning.ipynb` : Contains the VGG16 transfer learning implementation
 
 ## Contributors 
 * **Izellalen Youssef**
