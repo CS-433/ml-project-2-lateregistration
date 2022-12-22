@@ -14,8 +14,8 @@ CHILI Lab provided us with a useful Graphical Interface to be used while testing
 ## Project Structure
 * `data folder`  : Contains the training and test data. 
 * `util folder` : Contains some modules that we used to format the data to our expected wants
-* `HanoiTwoer.ipynb` : contains our CNN implementation as well as the ResNet transfer learning implementation
-* `TransferLearning.ipynb` : contains the VGG16 implementation
+* `HanoiTower.ipynb` : Contains our CNN implementation as well as the ResNet transfer learning implementation
+* `TransferLearning.ipynb` : Contains the VGG16 implementation
 
 ## Contributors 
 * **Izellalen Youssef**
